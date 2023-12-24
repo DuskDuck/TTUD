@@ -1,0 +1,1 @@
+write a c++ program that find the max average of k element in a n size array. The program take 2 input. First is k and n in this format: n k. Then the array with this format: a b c d ...The program will out put the max average.
